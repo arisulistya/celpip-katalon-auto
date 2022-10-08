@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'celpip-rc.azurewebsites.net'</initValue>
+      <name>instanceUrl</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

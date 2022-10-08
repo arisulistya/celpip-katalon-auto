@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>E2School</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'e2school-lb-rc.learningbase.io'</initValue>
+      <name>instanceUrl</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

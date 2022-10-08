@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_CELPIP General</name>
+   <tag></tag>
+   <elementGuidId>1f3d7cbb-de4c-4078-9b6c-6bba708f8cda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='registrationForm']/div[2]/div[2]/div/div[7]/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0042a8c2-bf8a-48d7-aa1f-a982d4d3d210</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>box</value>
+      <webElementGuid>4f070e41-26ce-4097-9697-2967a9a41105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            CELPIP General
+                                        </value>
+      <webElementGuid>39e18446-c67b-4779-a0f7-89f5c5e23a84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;registrationForm&quot;)/div[@class=&quot;panel-body&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;exam-type-option&quot;]/div[@class=&quot;option&quot;]/label[1]/span[@class=&quot;box&quot;]</value>
+      <webElementGuid>28159c3c-ba79-43ac-b384-c28546ac54c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>50a1da82-99aa-44f9-a2ab-dee4b5a98ab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>box</value>
+      <webElementGuid>c4caeecc-11c3-46c0-b117-521d5dd89621</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            CELPIP General
+                                        </value>
+      <webElementGuid>b3767041-6345-48da-82b7-288e8db00c34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;registrationForm&quot;)/div[@class=&quot;panel-body&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;exam-type-option&quot;]/div[@class=&quot;option&quot;]/label[1]/span[@class=&quot;box&quot;]</value>
+      <webElementGuid>2cc2f766-e499-40a6-a705-ada9b6bfb6c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='registrationForm']/div[2]/div[2]/div/div[7]/label/span</value>
+      <webElementGuid>6b4e3853-b736-4f98-a03d-574d9b4d592e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OET (Doctors)'])[1]/following::span[1]</value>
+      <webElementGuid>c5434b02-ee6c-4ded-911e-bb34999867e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OET (Nurses)'])[1]/following::span[3]</value>
+      <webElementGuid>b327b4a9-ef70-41bb-96eb-602af7800621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CELPIP General LS'])[1]/preceding::span[2]</value>
+      <webElementGuid>aabb6036-53c6-45aa-b95c-be19a4654ece</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/label/span</value>
+      <webElementGuid>e39ec6a0-276b-4edb-bbac-0ed8836b3578</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                                            CELPIP General
+                                        ' or . = '
+                                            CELPIP General
+                                        ')]</value>
+      <webElementGuid>f06e8bb1-e2b8-4f42-88c6-dd4a1c8e2e18</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
