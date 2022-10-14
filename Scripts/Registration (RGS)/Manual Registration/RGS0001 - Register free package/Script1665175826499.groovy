@@ -20,14 +20,36 @@ import org.apache.commons.lang.RandomStringUtils as RandomStringUtils
 import org.openqa.selenium.support.ui.Select as Select
 import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 
+/*---------------------------------------------------------------------------------------
+ * SUMMARY : Success manual registration student celpip with free celpip general package
+ * 
+ * STEPS : 
+ * - Access celpip stagging registration page
+ * - Select Celpip general package
+ * - Select Free type
+ * - Input Email, Firstname, lastname, and Password
+ * - Click next
+ * - Click Yes when pop-up email confirmation appears
+ * - Configure timezone
+ * - Automatically redirected to dashboard
+ * - Verify student success register and directed to dashboard
+ * 
+ * ---------------------------------------------------------------------------------------
+ */
+
 //Define random variable
 def lowerBound = 1
 def upperBound = 67
 def randomString = RandomStringUtils.randomAlphabetic(7) 
-def randomEmail= 'std' + randomString + '@mailinator.com'
-def randomFname= randomString
-def randomLname= 'std-auto'
+def randomEmail= 'std-' + randomString + '@mailinator.com'
+def randomFname= 'std-' + randomString
+def randomLname= 'auto'
 def randomTimeZone= new Random().nextInt((upperBound - lowerBound) + 1) + lowerBound
+
+//Set as global variable
+GlobalVariable.randomMail = randomEmail
+GlobalVariable.randomFname = randomFname
+GlobalVariable.randomLname = randomLname
 
 //Execute
 WebUI.openBrowser('')

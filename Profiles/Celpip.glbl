@@ -3,7 +3,7 @@
    <description></description>
    <name>Celpip</name>
    <tag></tag>
-   <defaultProfile>true</defaultProfile>
+   <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
       <initValue>'celpip-rc.azurewebsites.net'</initValue>
@@ -28,5 +28,25 @@
       <description></description>
       <initValue>'staging-e2v2-rc.e2language.com'</initValue>
       <name>registrationUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'www.mailinator.com'</initValue>
+      <name>emailUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[:]</initValue>
+      <name>randomMail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[:]</initValue>
+      <name>randomFname</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[:]</initValue>
+      <name>randomLname</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

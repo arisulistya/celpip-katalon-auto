@@ -3,10 +3,20 @@
    <description></description>
    <name>E2School</name>
    <tag></tag>
-   <defaultProfile>false</defaultProfile>
+   <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
       <initValue>'e2school-lb-rc.learningbase.io'</initValue>
       <name>instanceUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Temp123#'</initValue>
+      <name>passwordGeneral</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'std2.mtx@mailinator.com'</initValue>
+      <name>student1</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

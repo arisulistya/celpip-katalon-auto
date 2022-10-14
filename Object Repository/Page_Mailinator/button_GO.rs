@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_GO</name>
+   <tag></tag>
+   <elementGuidId>0730e75e-0f4a-4877-a01b-f11d793b561a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button[value=&quot;Search for public inbox for free&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@value='Search for public inbox for free']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>77c27aac-494b-4e15-a016-91d917d9b546</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Search for public inbox for free</value>
+      <webElementGuid>c9879d0f-82eb-4a27-9c42-4c15f2d22323</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>changeInbox('search'); return false;</value>
+      <webElementGuid>2cf28fd0-d229-43f9-8533-d86df84a533f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GO</value>
+      <webElementGuid>459f4296-f031-43cd-82c6-cef57f5a5e5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header&quot;)/div[@class=&quot;g5core-top-bar g5core-top-bar-desktop&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;g5core-top-bar-inner&quot;]/div[@class=&quot;g5core-top-bar-left&quot;]/div[@class=&quot;g5core-top-bar-item g5core-tbi-custom-html-1&quot;]/button[1]</value>
+      <webElementGuid>584fec3d-e34b-4fbe-a396-714303463981</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>685a0eaa-3e09-4b3a-9cb7-58510276a5ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Search for public inbox for free</value>
+      <webElementGuid>aa96890d-8215-4e7e-99ac-73ee355fe339</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>changeInbox('search'); return false;</value>
+      <webElementGuid>558c52d2-4a2e-4cd1-92a6-63c2df94cc76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GO</value>
+      <webElementGuid>af2258ee-9695-4361-8a6f-fc6e45c7af2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header&quot;)/div[@class=&quot;g5core-top-bar g5core-top-bar-desktop&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;g5core-top-bar-inner&quot;]/div[@class=&quot;g5core-top-bar-left&quot;]/div[@class=&quot;g5core-top-bar-item g5core-tbi-custom-html-1&quot;]/button[1]</value>
+      <webElementGuid>509c72d3-224a-4f8a-96e6-4d792fa7ea04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8d2706da-902b-4104-bae3-84db98874e15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Search for public inbox for free</value>
+      <webElementGuid>32dcc8ee-05f3-44ae-90b7-2cabe317e91e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>changeInbox('search'); return false;</value>
+      <webElementGuid>06e3baa5-357e-48dc-8d5f-d69052b2fd75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GO</value>
+      <webElementGuid>19ffa7a3-099e-4e5f-ac42-d86f2b7ce356</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header&quot;)/div[@class=&quot;g5core-top-bar g5core-top-bar-desktop&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;g5core-top-bar-inner&quot;]/div[@class=&quot;g5core-top-bar-left&quot;]/div[@class=&quot;g5core-top-bar-item g5core-tbi-custom-html-1&quot;]/button[1]</value>
+      <webElementGuid>d5975833-0e86-4cbc-9bec-5ea95886b4c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@value='Search for public inbox for free']</value>
+      <webElementGuid>0195ffa1-8c77-4b04-bcd1-a45640e3de54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='site-header']/div/div/div/div/div/button</value>
+      <webElementGuid>f709f924-179b-4524-b5c5-1d5d8c4fccf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Public Inbox'])[1]/preceding::button[1]</value>
+      <webElementGuid>47cdef6d-5b24-40cd-af9f-7f7e222ebd31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why Mailinator'])[1]/preceding::button[1]</value>
+      <webElementGuid>746eaf2e-7fec-4cc7-afd9-80a7607f1d1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='GO']/parent::*</value>
+      <webElementGuid>30b14ca1-6028-4f94-b61f-74b155c06116</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>ddda463e-4b22-4167-a3ea-51d8094b05f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'GO' or . = 'GO')]</value>
+      <webElementGuid>cc300b51-9b37-4530-9910-e4c3ff261f3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

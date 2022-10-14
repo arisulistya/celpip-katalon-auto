@@ -6,6 +6,7 @@
    <UUID>ef51bee2-6227-4101-97ec-7d0d84fe8ab4</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/ghost/Katalon Studio/LB-Test/LB-Test.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
